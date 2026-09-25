@@ -5,7 +5,7 @@ CS student at Bellevue College. Before software I spent four years making commer
 
 ### What I am building
 
-**ONER** (private for now) is an online course platform for Russian speaking Central Asia.
+**ONER** (private for now) is an online filmmaking course platform for Russian speaking Central Asia.
 I built the backend with FastAPI, PostgreSQL, SQLModel and Alembic. The part that took the longest was the payment flow with FreedomPay, because a mistake there means someone gets charged twice, or gets a course they never paid for.
 The rule of the whole product is simple: you watch a lesson only if you own it. Access is decided on the server, only after the payment webhook is verified. Clicking "buy" twice returns the same order, not a second charge. Video is DRM protected with Kinescope, and files are stored on Cloudflare R2.
 
@@ -40,8 +40,8 @@ flowchart LR
 
 ### Hackathons
 
-- **[Poly Predictor Kit](https://github.com/bekzat-uraimov/Poly_Predictor_Kit)**: won the Polymarket track at QuackHacks (Nov 2025). Chrome extension that analyzes Polymarket events with Gemini and a TF-IDF emotion classifier.
-- **[AI Visual Novel Creator](https://github.com/bekzat-uraimov/AI_Visual_Novel_Creator)**: hackathon win. Generates a playable Ren'Py visual novel from one prompt.
+- **[Poly Predictor Kit](https://github.com/bekzat-uraimov/Poly_Predictor_Kit)**: won the Polymarket track at QuackHacks (Nov 2025). Chrome extension that analyzes Polymarket events with Gemini and a TF-IDF emotion classifier. I wrote the comment collector that feeds the classifier.
+- **[AI Visual Novel Creator](https://github.com/bekzat-uraimov/AI_Visual_Novel_Creator)**: built at CodeDay Fall 2025, Seattle. Generates a playable Ren'Py visual novel from one prompt. I wrote the Ren'Py game loop.
 
 ### Other projects
 
