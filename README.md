@@ -45,7 +45,7 @@ flowchart LR
 
 ### Other projects
 
-- **[focusn't](https://github.com/bekzat-uraimov/Focusn-t)**: focus timer that uses your webcam to notice when you look away. All ML runs in the browser with MediaPipe, video never leaves the device.
+- **[focusn't](https://github.com/bekzat-uraimov/Focusn-t)**: focus timer that uses your webcam to notice when you look away. All ML runs in the browser with MediaPipe, video never leaves the device. Team project, I built the detection (attention score, gaze, phone) and the frontend.
 - **[HabitTrackerBot](https://github.com/bekzat-uraimov/HabitTrackerBot)**: stateless Telegram bot for habit tracking with the Pixela API.
 - **[portfolio](https://github.com/bekzat-uraimov/portfolio)**: my site, [bekzat.dev](https://bekzat.dev). Flask, one page, projects load live from the GitHub API.
 
