@@ -5,7 +5,7 @@ CS student at Bellevue College. Before software I spent four years making commer
 
 ### What I am building
 
-**ONER** (private for now, public version coming soon) is an online filmmaking course platform for Russian speaking Central Asia.
+**[ONER](https://github.com/bekzat-uraimov/oner-platform)** is an online filmmaking course platform for Russian speaking Central Asia.
 I built the backend with FastAPI, PostgreSQL, SQLModel and Alembic. The part that took the longest was the payment flow with FreedomPay, because a mistake there means someone gets charged twice, or gets a course they never paid for.
 The rule of the whole product is simple: you watch a lesson only if you own it. Access is decided on the server, only after the payment webhook is verified. Clicking "buy" twice returns the same order, not a second charge. Video is DRM protected with Kinescope, and files are stored on Cloudflare R2.
 
