@@ -5,9 +5,9 @@ CS student at Bellevue College. Before software I spent four years making commer
 
 ### What I am building
 
-**[ONER](https://github.com/bekzat-uraimov/oner-platform)** is an online filmmaking course platform for Russian speaking Central Asia. **[Code](https://github.com/bekzat-uraimov/oner-platform)**
-I built the backend with FastAPI, PostgreSQL, SQLModel and Alembic. The part that took the longest was the payment flow with FreedomPay, because a mistake there means someone gets charged twice, or gets a course they never paid for.
-The rule of the whole product is simple: you watch a lesson only if you own it. Access is decided on the server, only after the payment webhook is verified. Clicking "buy" twice returns the same order, not a second charge. Video is DRM protected with Kinescope, and files are stored on Cloudflare R2.
+**[ONER](https://github.com/bekzat-uraimov/oner-platform)**, Software Engineer. I built the backend for this online filmmaking course platform for Russian speaking Central Asia. It is preparing for launch. **[Code](https://github.com/bekzat-uraimov/oner-platform)**
+The main rule: you watch a lesson only if you own it. Access is decided on the server, only after the payment webhook is verified. Clicking "buy" twice returns the same order, not a second charge. Video is DRM protected with Kinescope, and files are stored on Cloudflare R2.
+Stack: FastAPI, PostgreSQL, SQLModel and Alembic. The payment flow with FreedomPay took the longest, because a mistake there means someone gets charged twice, or gets a course they never paid for.
 
 ```mermaid
 sequenceDiagram
@@ -34,8 +34,8 @@ ONER also has a full **admin panel**, and it is the only way to change content:
 - find students by email, see what they bought and every payment they tried, change role or disable an account
 - see all purchases and abandoned checkouts, record refunds, and give or take away access by hand
 
-**ThinkCoder** at [akyldoo.ai](https://akyldoo.ai), an AI coding assistant. I built the Python AI orchestration layer.
-LangGraph runs each problem as its own session with state, instead of one long prompt. LiteLLM sends easy requests to a local Qwen2.5-Coder model through Ollama, and the harder ones go to Gemini. This keeps the cost down.
+**[akyldoo.ai](https://akyldoo.ai)**, Software Engineer (part-time). I built the Python AI orchestration layer for ThinkCoder, an AI coding assistant.
+LiteLLM sends easy requests to a local Qwen2.5-Coder model through Ollama and the harder ones to Gemini, which keeps the cost down. LangGraph runs each problem as its own session with state, instead of one long prompt.
 
 ```mermaid
 flowchart LR
@@ -68,4 +68,4 @@ This fall I am taking Data Structures in C++ and Python for Data Science at Bell
 
 ### Contact
 
-[bekzat.dev](https://bekzat.dev) · [LinkedIn](https://www.linkedin.com/in/bekzat-uraimov/) · bkzturaimov@gmail.com
+[bekzat.dev](https://bekzat.dev) · [LinkedIn](https://www.linkedin.com/in/bekzat-uraimov/) · [Resume](https://bekzat.dev/static/Bekzat_Uraimov_Resume.pdf) · bkzturaimov@gmail.com
