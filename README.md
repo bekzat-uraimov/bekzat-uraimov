@@ -13,4 +13,16 @@ Before code, I spent four years shooting and color grading videos 🎬. I still 
 - Polymarket Track winner, QuackHacks 2025 ([Poly Predictor Kit](https://github.com/bekzat-uraimov/Poly_Predictor_Kit))
 - Best Use of AI, CodeDay Seattle 2025 ([AI Visual Novel Creator](https://github.com/bekzat-uraimov/AI_Visual_Novel_Creator))
 
-**Say hi** 📫 [bekzat.dev](https://bekzat.dev) · [LinkedIn](https://www.linkedin.com/in/bekzat-uraimov/) · [Resume](https://bekzat.dev/static/Bekzat_Uraimov_Resume.pdf) · bkzturaimov@gmail.com
+**Say hi** 📫 [bekzat.dev](https://bekzat.dev) · [Resume](https://bekzat.dev/static/Bekzat_Uraimov_Resume.pdf) · bkzturaimov@gmail.com
+
+<a href="https://www.linkedin.com/in/bekzat-uraimov/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="32" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/bekzat-uraimov"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="32" /></a>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bekzat-uraimov/bekzat-uraimov/output/github-snake-dark.svg" />
+    <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/bekzat-uraimov/bekzat-uraimov/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center"><b>Thanks for reading! You're awesome ✨</b></p>
