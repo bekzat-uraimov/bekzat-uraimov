@@ -19,7 +19,7 @@ Before code, I spent four years shooting and color grading videos 🎬. I still 
 <a href="https://leetcode.com/u/bekzat_uraimov/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="32" /></a>
 
 <p align="center">
-  <a href="https://leetcode.com/u/bekzat_uraimov/"><img src="https://leetcard.jacoblin.cool/bekzat_uraimov?theme=dark&ext=heatmap" alt="LeetCode stats" /></a>
+  <a href="https://leetcode.com/u/bekzat_uraimov/"><img src="https://leetcard.jacoblin.cool/bekzat_uraimov?theme=dark&ext=heatmap&animation=false&font=Ubuntu" alt="LeetCode stats" /></a>
 </p>
 
 <p align="center">
