@@ -1,6 +1,6 @@
 ## Hi, I'm Bekzat 👋
 
-CS student at Bellevue College in Seattle. I mostly build backends with Python, and I'm building systems in C++.
+I'm studying for a Bachelor of Science in Computer Science at Bellevue College in Seattle. I mostly build backends with Python, and I'm building systems in C++.
 Before code, I spent four years shooting and color grading videos 🎬. I still like making things people actually use.
 
 **Right now**
