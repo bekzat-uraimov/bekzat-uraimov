@@ -16,7 +16,11 @@ Before code, I spent four years shooting and color grading videos 🎬. I still 
 **Say hi** 📫 [bekzat.dev](https://bekzat.dev) · [Resume](https://bekzat.dev/static/Bekzat_Uraimov_Resume.pdf) · bkzturaimov@gmail.com
 
 <a href="https://www.linkedin.com/in/bekzat-uraimov/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="32" /></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/bekzat-uraimov"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="32" /></a>
+<a href="https://leetcode.com/u/bekzat_uraimov/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="32" /></a>
+
+<p align="center">
+  <a href="https://leetcode.com/u/bekzat_uraimov/"><img src="https://leetcard.jacoblin.cool/bekzat_uraimov?theme=dark&ext=heatmap" alt="LeetCode stats" /></a>
+</p>
 
 <p align="center">
   <picture>
