@@ -1,7 +1,7 @@
 ## Hi, I'm Bekzat 👋
 
 I'm studying for a Bachelor of Science in Computer Science at Bellevue College in Seattle. I mostly build backends with Python, and I'm building systems in C++.
-Before code, I spent four years shooting and color grading videos 🎬. I still like making things people actually use.
+Before code, I spent four years editing and color grading videos 🎬. I still like making things people actually use.
 
 **Right now**
 - 🚀 Preparing to launch [ONER](https://github.com/bekzat-uraimov/oner-platform), an online filmmaking course platform for Central Asia. I built the backend: payments, DRM video and an admin panel.
