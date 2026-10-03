@@ -12,7 +12,7 @@ Before code, I spent four years editing and color grading videos 🎬. I still l
 
 **Hackathons** 🏆
 - Polymarket Track winner, QuackHacks 2025. Led a team of 6 to build a Chrome extension that uses Gemini to sum up any Polymarket event and its risks ([Poly Predictor Kit](https://github.com/bekzat-uraimov/Poly_Predictor_Kit))
-- Best Use of AI, CodeDay Seattle 2025. Led a team of 6 to turn one prompt into a playable visual novel, using Gemini ([AI Visual Novel Creator](https://github.com/bekzat-uraimov/AI_Visual_Novel_Creator))
+- Best Use of AI, CodeDay Seattle 2025. With my team, built a game that turns one prompt into a playable visual novel, using Gemini ([AI Visual Novel Creator](https://github.com/bekzat-uraimov/AI_Visual_Novel_Creator))
 
 **Say hi** 📫 [bekzat.dev](https://bekzat.dev) · [Resume](https://bekzat.dev/static/Bekzat_Uraimov_Resume.pdf) · bkzturaimov@gmail.com
 
