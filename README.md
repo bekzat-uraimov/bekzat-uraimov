@@ -11,7 +11,7 @@ Before code, I spent four years shooting and color grading videos 🎬. I still 
 - 🤝 Looking for software engineering internships and junior roles
 
 **Hackathons** 🏆
-- Polymarket Track winner, QuackHacks 2025. Led a team of 6 to build a Chrome extension that makes sense of messy Polymarket comments ([Poly Predictor Kit](https://github.com/bekzat-uraimov/Poly_Predictor_Kit))
+- Polymarket Track winner, QuackHacks 2025. Led a team of 6 to build a Chrome extension that sums up Polymarket events and warns about risky bets ([Poly Predictor Kit](https://github.com/bekzat-uraimov/Poly_Predictor_Kit))
 - Best Use of AI, CodeDay Seattle 2025. Led a team of 6 to turn one prompt into a playable visual novel ([AI Visual Novel Creator](https://github.com/bekzat-uraimov/AI_Visual_Novel_Creator))
 
 **Say hi** 📫 [bekzat.dev](https://bekzat.dev) · [Resume](https://bekzat.dev/static/Bekzat_Uraimov_Resume.pdf) · bkzturaimov@gmail.com
