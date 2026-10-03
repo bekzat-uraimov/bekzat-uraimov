@@ -4,7 +4,8 @@ I'm studying for a Bachelor of Science in Computer Science at Bellevue College i
 Before code, I spent four years shooting and color grading videos 🎬. I still like making things people actually use.
 
 **Right now**
-- 🚀 Building the backend for [ONER](https://github.com/bekzat-uraimov/oner-platform), an online filmmaking course platform for Central Asia. Payments, DRM video and an admin panel. Getting ready for launch.
+- 🚀 Preparing to launch [ONER](https://github.com/bekzat-uraimov/oner-platform), an online filmmaking course platform for Central Asia. I built the backend: payments, DRM video and an admin panel.
+- 🔬 Working on a small research project, [llm-failover](https://github.com/bekzat-uraimov/llm-failover). If a worker dies in the middle of an answer, another one finishes it byte for byte. C++ and Python.
 - 🤖 Working on the AI orchestration layer for ThinkCoder at [akyldoo.ai](https://akyldoo.ai), with LangGraph and LiteLLM.
 - 📚 Taking Data Structures in C++ and Python for Data Science
 - 🤝 Looking for software engineering internships and junior roles
@@ -17,10 +18,6 @@ Before code, I spent four years shooting and color grading videos 🎬. I still 
 
 <a href="https://www.linkedin.com/in/bekzat-uraimov/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="32" /></a>&nbsp;&nbsp;
 <a href="https://leetcode.com/u/bekzat_uraimov/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="32" /></a>
-
-<p align="center">
-  <a href="https://leetcode.com/u/bekzat_uraimov/"><img src="https://leetcard.jacoblin.cool/bekzat_uraimov?theme=dark&ext=heatmap&animation=false&font=Ubuntu" alt="LeetCode stats" /></a>
-</p>
 
 <p align="center">
   <picture>
