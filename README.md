@@ -6,7 +6,7 @@ Before code, I spent four years editing and color grading videos 🎬. I still l
 **Right now**
 - 🚀 Preparing to launch [ONER](https://github.com/bekzat-uraimov/oner-platform), an online filmmaking course platform for Central Asia. I built the backend: payments, DRM video and an admin panel.
 - 🔬 Working on a small research project, [llm-failover](https://github.com/bekzat-uraimov/llm-failover). If a worker dies in the middle of an answer, another one finishes it byte for byte. C++ and Python.
-- 🤖 Building the part of ThinkCoder at [akyldoo.ai](https://akyldoo.ai) that picks which AI model answers each request. It cut the estimated AI bill by about 40%.
+- 🤖 Built the part of ThinkCoder at [akyldoo.ai](https://akyldoo.ai) that picks which AI model answers each request (March to May 2026). It cut the estimated AI bill by about 40%.
 - 📚 Taking Data Structures in C++ and Python for Data Science
 - 🤝 Looking for software engineering internships and junior roles
 
