@@ -1,11 +1,11 @@
 ## Hi, I'm Bekzat 👋
 
 I'm studying for a Bachelor of Science in Computer Science at Bellevue College in Seattle. I mostly build backends with Python, and I'm building systems in C++.
-Before code, I spent four years editing and color grading videos 🎬. I still like making things people actually use.
+Before code, I spent four years editing and color grading videos 🎬. That's where I learned to care about the people who use what I make.
 
 **Right now**
 - 🚀 Preparing to launch [ONER](https://github.com/bekzat-uraimov/oner-platform), an online filmmaking course platform for Central Asia. I built the backend: payments, DRM video and an admin panel.
-- 🔬 Working on a small system design project, [llm-failover](https://github.com/bekzat-uraimov/llm-failover). If a worker dies in the middle of an answer, another one finishes it byte for byte, from about 1 KB of saved tokens instead of a 3.5 MB KV cache. C++ and Python.
+- 🔬 Working on a small system design project, [llm-failover](https://github.com/bekzat-uraimov/llm-failover). If a worker dies in the middle of an answer, another one finishes it, byte for byte. C++ and Python.
 - 🤖 Built the part of ThinkCoder at [akyldoo.ai](https://akyldoo.ai) that picks which AI model answers each request (March to May 2026). It cut the estimated AI bill by about 40%.
 - 📚 Taking Data Structures in C++ and Python for Data Science
 - 🤝 Looking for software engineering internships and junior roles
@@ -25,5 +25,3 @@ Before code, I spent four years editing and color grading videos 🎬. I still l
     <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/bekzat-uraimov/bekzat-uraimov/output/github-snake.svg" />
   </picture>
 </p>
-
-<p align="center"><b>Thanks for reading! You're awesome ✨</b></p>
