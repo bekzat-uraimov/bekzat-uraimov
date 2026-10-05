@@ -4,11 +4,19 @@ I'm studying for a Bachelor of Science in Computer Science at Bellevue College i
 Before code, I spent four years editing and color grading videos 🎬. That's where I learned to care about the people who use what I make.
 
 **Right now**
-- 🚀 Preparing to launch [ONER](https://github.com/bekzat-uraimov/oner-platform), an online filmmaking course platform for Central Asia. I built the backend: payments, DRM video and an admin panel.
-- 🔬 Working on a small system design project, [llm-failover](https://github.com/bekzat-uraimov/llm-failover). If a worker dies in the middle of an answer, another one finishes it, byte for byte. C++ and Python.
-- 🤖 Built the part of ThinkCoder at [akyldoo.ai](https://akyldoo.ai) that picks which AI model answers each request (March to May 2026). It cut the estimated AI bill by about 40%.
-- 📚 Taking Data Structures in C++ and Python for Data Science
-- 🤝 Looking for software engineering internships and junior roles
+
+🚀 Building ONER, an online filmmaking course platform for Central Asia.
+   Backend: FastAPI, PostgreSQL, payments, DRM, and object storage.
+
+⚙️ Building distributed systems in C++.
+   Currently working on fault-tolerant LLM inference and worker recovery.
+
+🔬 Exploring distributed systems, ML infrastructure, scheduling,
+   resource management, and fault tolerance.
+
+📚 Studying Computer Science at Bellevue College.
+
+🤝 Looking for software engineering internships and research opportunities.
 
 **Hackathons** 🏆
 - Polymarket Track winner, QuackHacks 2025. Led a team of 6 to build a Chrome extension that uses Gemini to sum up any Polymarket event and its risks ([Poly Predictor Kit](https://github.com/bekzat-uraimov/Poly_Predictor_Kit))
