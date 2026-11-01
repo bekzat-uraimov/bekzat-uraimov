@@ -1,7 +1,7 @@
 ## Hi, I'm Bekzat 👋
 
 I'm studying for a Bachelor of Science in Computer Science at Bellevue College in Seattle. I mostly build backends with Python, and I'm building systems in C++.
-Before code, I spent four years editing and color grading videos 🎬. That's where I learned to care about the people who use what I make.
+Before code, I spent four years editing and color grading videos 🎬. 
 
 **Right now**
 
